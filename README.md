@@ -1,4 +1,5 @@
-# Chinese-Legal-Entity-Recognition
+# Chinese-Legal-Entity-Recognition  
+![](https://img.shields.io/badge/CNSCC-300-lightgrey)  ![](https://img.shields.io/badge/license-Apache--2.0-blue) ![](https://img.shields.io/badge/version-1.2.1-yellow)
 ## Introduction
 With the development of artificial intelligence, many industries, such as intelligent legal service, has also ushered in a new round of technological changes. Although lots of international research have been done in this field, the disparity of social attention in law-related tasks between China and the west, as well as the differences in language families, make it is still in its infancy in China. To solve the problems of low accuracy and unsatisfactory output of traditional methods, this paper aims to design a Chinese legal entity extraction system based on the pre-trained model.
 
